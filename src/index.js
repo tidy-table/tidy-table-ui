@@ -4,6 +4,11 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+import '../node_modules/@blueprintjs/core/lib/css/blueprint.css';
+import '../node_modules/@blueprintjs/icons/lib/css/blueprint-icons.css';
+import '../node_modules/@blueprintjs/popover2/lib/css/blueprint-popover2.css';
+import '../node_modules/@blueprintjs/table/lib/css/table.css';
+
 ReactDOM.render(
   <React.StrictMode>
     <App />

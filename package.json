@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@blueprintjs/core": "^3.46.0",
+    "@blueprintjs/icons": "^3.27.0",
+    "@blueprintjs/popover2": "^0.11.0",
+    "@blueprintjs/table": "^3.8.34",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
