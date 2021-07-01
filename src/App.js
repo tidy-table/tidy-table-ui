@@ -135,7 +135,7 @@ function MyNav() {
           </Popover2>
       </Navbar.Group>
       <Navbar.Group align={Alignment.RIGHT}>
-          <Navbar.Heading>MySheets</Navbar.Heading>
+          <Navbar.Heading>TidyTable</Navbar.Heading>
       </Navbar.Group>
     </Navbar>
   </>;
