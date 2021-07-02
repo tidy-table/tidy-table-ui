@@ -10,9 +10,10 @@ import '../node_modules/@blueprintjs/popover2/lib/css/blueprint-popover2.css';
 import '../node_modules/@blueprintjs/table/lib/css/table.css';
 
 ReactDOM.render(
-  <React.StrictMode>
+  // <React.StrictMode>
     <App />
-  </React.StrictMode>,
+  // </React.StrictMode>
+  ,
   document.getElementById('root')
 );
 
